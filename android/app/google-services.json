@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "726566019939",
+    "project_id": "wall-socialmedia",
+    "storage_bucket": "wall-socialmedia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726566019939:android:83e2d31d2f76d519752956",
+        "android_client_info": {
+          "package_name": "com.example.social_media"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlqPnhevD6g5L3w72jLRx-gwLw4wiyOeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
